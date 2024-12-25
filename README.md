@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm İsmet Can Sezgin</h1>
 <h3 align="center">A passionate ML/DL Practitioner from Turkey</h3>
 
-- 💬 Ask me about **Neural networks, computer vision, and medical imaging**
+- 💬 Ask me about **Neural networks and Computer vision**
 
 - 📫 How to reach me **ismetcansezgin2763@gmail.com**
 
